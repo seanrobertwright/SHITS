@@ -4,7 +4,10 @@
   "description": "Safety and ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "desktop": "",
+    "web": "",
+    "api": ""
   },
   "repository": {
     "type": "git",
