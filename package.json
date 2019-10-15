@@ -1,0 +1,29 @@
+{
+  "name": "shits",
+  "version": "1.0.0",
+  "description": "Safety and ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanrobertwright/SHITS.git"
+  },
+  "keywords": [
+    "safety",
+    "health",
+    "information",
+    "system",
+    "management"
+  ],
+  "author": "Sean Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanrobertwright/SHITS/issues"
+  },
+  "homepage": "https://github.com/seanrobertwright/SHITS#readme",
+  "dependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
