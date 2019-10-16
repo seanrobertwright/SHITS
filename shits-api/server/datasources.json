@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "shits": {
+    "host": "sql9.freemysqlhosting.net",
+    "port": 3306,
+    "url": "mysql://sql9308785:HCtTCpH43G@sql9.freemysqlhosting.net/sql9308785",
+    "database": "sql9308785",
+    "password": "HCtTCpH43G",
+    "name": "sql9308785",
+    "user": "sql9308785",
+    "connector": "mysql"
+  }
+}
