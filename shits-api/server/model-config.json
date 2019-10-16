@@ -34,5 +34,17 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "employee": {
+    "dataSource": "db",
+    "public": true
+  },
+  "department": {
+    "dataSource": "shits",
+    "public": true
+  },
+  "costCenter": {
+    "dataSource": "shits",
+    "public": true
   }
 }

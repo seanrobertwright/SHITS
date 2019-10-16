@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "shits": {
+    "host": "USRHLWS1927110",
+    "port": 3306,
+    "url": "mysql://shits:Muadib70!!@USRHLWS1927110/shits",
+    "database": "shits",
+    "password": "Muadib70!!",
+    "name": "shits",
+    "user": "shits",
+    "connector": "mysql"
   }
 }
