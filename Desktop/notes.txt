@@ -1,0 +1,11 @@
+Officegen
+
+npm install officegen
+
+var officegen = require('officegen')
+var myDoc = officegen({
+    'type': 'docx',
+    'subject': '...',
+    'keywords':'...',
+    'description': '...'
+})

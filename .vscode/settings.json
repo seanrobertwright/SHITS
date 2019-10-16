@@ -1,3 +1,4 @@
 {
-    "editor.cursorBlinking": "solid"
+    "editor.cursorBlinking": "solid",
+    "ui5ts.manifestlocation": "Desktop/app/manifest.json"
 }
