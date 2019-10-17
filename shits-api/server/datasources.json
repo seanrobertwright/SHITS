@@ -3,7 +3,7 @@
     "name": "db",
     "connector": "memory"
   },
-  "shits": {
+  "sql9308785": {
     "host": "sql9.freemysqlhosting.net",
     "port": 3306,
     "url": "mysql://sql9308785:HCtTCpH43G@sql9.freemysqlhosting.net/sql9308785",
@@ -11,6 +11,26 @@
     "password": "HCtTCpH43G",
     "name": "sql9308785",
     "user": "sql9308785",
+    "connector": "mysql"
+  },
+  "local": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "mysql://shits:Muadib70!!@localhost/shits",
+    "database": "shits",
+    "password": "Muadib70!!",
+    "name": "local",
+    "user": "shits",
+    "connector": "mysql"
+  },
+  "rockyhill": {
+    "host": "USRHLWS1927110",
+    "port": 3306,
+    "url": "mysql://shits:Muadib70!!@USRHLWS1927110/shits",
+    "database": "shits",
+    "password": "Muadib70!!",
+    "name": "rockyhill",
+    "user": "shits",
     "connector": "mysql"
   }
 }

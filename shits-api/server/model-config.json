@@ -36,15 +36,23 @@
     "public": false
   },
   "employee": {
-    "dataSource": "db",
+    "dataSource": "rockyhill",
     "public": true
   },
   "department": {
-    "dataSource": "shits",
+    "dataSource": "rockyhill",
     "public": true
   },
   "costCenter": {
-    "dataSource": "shits",
+    "dataSource": "rockyhill",
+    "public": true
+  },
+  "sbu": {
+    "dataSource": "rockyhill",
+    "public": true
+  },
+  "site": {
+    "dataSource": "rockyhill",
     "public": true
   }
 }
