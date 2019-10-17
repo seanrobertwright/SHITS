@@ -14,7 +14,7 @@
     "siteAddress": {
       "type": "string",
       "required": true,
-      "default": "siteCity"
+      "default": ""
     },
     "siteCity": {
       "type": "string",
