@@ -19,9 +19,12 @@
   "production": false,
   "dependencies": {
     "@mysql/xdevapi": "^8.0.17",
+    "eslint": "^6.5.1",
+    "mem": "^5.1.1",
     "mysql2": "^1.7.0",
     "openui5.runtime.downloader": "^2.0.8",
-    "sequelize": "^5.17.1"
+    "sequelize": "^5.17.1",
+    "swagger-ui": "^3.24.0"
   },
   "devDependencies": {
     "electron": "^1.8.8",
