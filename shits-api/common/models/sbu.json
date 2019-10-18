@@ -10,7 +10,7 @@
     "sbuName": {
       "type": "string",
       "required": true
-    },
+    },  
     "sbuOwner": {
       "type": "string",
       "required": true

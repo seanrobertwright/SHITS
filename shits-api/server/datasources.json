@@ -12,15 +12,5 @@
     "name": "local",
     "user": "shits",
     "connector": "mysql"
-  },
-  "rockyhill": {
-    "host": "USRHLWS1927110",
-    "port": 3306,
-    "url": "mysql://shits:Muadib70!!@USRHLWS1927110/shits",
-    "database": "shits",
-    "password": "Muadib70!!",
-    "name": "rockyhill",
-    "user": "shits",
-    "connector": "mysql"
   }
 }
